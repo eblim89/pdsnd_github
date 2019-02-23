@@ -10,6 +10,10 @@ Project to learn how to use GIT
 ### Files used
 Files used: bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
 
+### Branches
+master
+documentation
+
 ### Credits
 Thanks Udacity!
 
