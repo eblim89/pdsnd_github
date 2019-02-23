@@ -4,6 +4,9 @@ This project was created on 2/23/2019
 ### Project Title
 Emily Lim Git project
 
+### Class name
+Programming for Data Science
+
 ### Description
 Project to learn how to use GIT
 
