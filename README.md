@@ -2,10 +2,10 @@
 This project was created on 2/23/2019
 
 ### Project Title
-Replace the Project Title
+Emily Lim Git project
 
 ### Description
-Describe what your project is about and what it does
+Project to learn how to use GIT
 
 ### Files used
 Include the files used
