@@ -8,8 +8,8 @@ Emily Lim Git project
 Project to learn how to use GIT
 
 ### Files used
-Include the files used
+Files used: bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks Udacity!
 
